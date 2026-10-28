@@ -1,32 +1,36 @@
-# ¡Hola! Soy [Tu nombre] 👋
+# ¡Hola! Soy Maicol Bohorquez 👋
 
 ### Aprendiz del SENA | Análisis y Desarrollo de Software (ADSO)
 
-Estoy formándome como desarrollador de software y disfruto convertir ideas en soluciones digitales. En este perfil comparto proyectos de aprendizaje, ejercicios y avances de mi formación.
+Soy aprendiz de desarrollo de software y me gusta aprender creando. En mi formación estoy construyendo bases en programación y desarrollo web, y comparto aquí mis prácticas, proyectos y avances.
 
-- 🎓 Actualmente estudio **Análisis y Desarrollo de Software** en el SENA.
-- 🌱 Estoy aprendiendo sobre desarrollo web, programación, bases de datos y buenas prácticas de código.
-- 🛠️ Me interesa crear aplicaciones útiles, accesibles y fáciles de usar.
-- 🤝 Abierto a colaborar en proyectos de aprendizaje y conocer a otros desarrolladores.
-- 📍 Colombia
+### Actualmente estoy aprendiendo
+
+- 🧠 Lógica de programación y resolución de problemas.
+- 🌐 Desarrollo web con HTML, CSS y JavaScript.
+- 🎨 Diseño de interfaces con Tailwind CSS.
+- 🗃️ Fundamentos de bases de datos y organización de la información.
+- 🔧 Control de versiones y trabajo con Git y GitHub.
+- ✅ Buenas prácticas para escribir código claro y mantener proyectos ordenados.
 
 ### Tecnologías y herramientas
 
-<!-- Conserva solo las tecnologías que ya conoces o estás usando. -->
+`HTML` · `CSS` · `JavaScript` · `Tailwind CSS` · `Git` · `GitHub` · `VS Code`
 
-`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
+### En qué me interesa trabajar
 
-### Proyectos destacados
+- Crear páginas y aplicaciones web útiles, claras y adaptables a distintos dispositivos.
+- Practicar el desarrollo frontend y seguir aprendiendo sobre programación.
+- Colaborar en proyectos de formación, compartir ideas y recibir retroalimentación.
 
-- **[Nombre del proyecto](URL del repositorio):** breve descripción de lo que hace y qué aprendiste al desarrollarlo.
-- **[Nombre del proyecto](URL del repositorio):** breve descripción de lo que hace y qué herramientas utilizaste.
+### Proyectos
+
+Aquí iré publicando proyectos desarrollados durante mi formación en ADSO, con una breve explicación de su propósito, las tecnologías utilizadas y lo que aprendí en el proceso.
 
 ### Contacto
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu perfil de LinkedIn](URL de tu perfil)
-- Correo: [tu-correo@example.com](mailto:tu-correo@example.com)
+- GitHub: [@maykbto](https://github.com/maykbto)
 
 ---
 
-💡 *Cada proyecto es una oportunidad para aprender algo nuevo.*
+🚀 *En formación, creando proyectos y avanzando un commit a la vez.*
